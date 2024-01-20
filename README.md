@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C , C# , C++ , PHP<br>💬 Ask me something on discord<br>My Discord : sativaaq
+I’m currently learning C , C# , C++ , PHP<br>Ask me something on discord<br>My Discord : sativaaq
 
 
 # 💻 Tech Stack:
